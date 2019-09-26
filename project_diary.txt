@@ -1,0 +1,13 @@
+URLs
+
+
+Date - 26/9/2019
+
+Topic - Analysis on New Zealand Consumer Goods
+
+Dataset Required,
+1. Food Price Index - Done
+2. Export/Import Data - Done
+3. Agriculture Data - 
+4. Climate/ Weather Data - 
+5. Food consumption Data -
