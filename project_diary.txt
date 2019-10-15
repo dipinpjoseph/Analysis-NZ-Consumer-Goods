@@ -8,6 +8,7 @@ Topic - Analysis on New Zealand Consumer Goods
 Dataset Required,
 1. Food Price Index - Done
 2. Export/Import Data - Done
-3. Agriculture Data - 
-4. Climate/ Weather Data - 
-5. Food consumption Data -
+3. Agriculture Data - Done 
+4. Climate/ Weather Data - Done
+5. Food consumption Data - Done
+ 
